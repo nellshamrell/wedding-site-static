@@ -8,7 +8,7 @@ a {
 
 #wrapper {
   width: 40%;
-  height: 840px;
+  height: 900px;
   margin-right: auto;
   margin-left: auto;
   background-color: white;
@@ -16,7 +16,6 @@ a {
 }
 
 #header {
-  width: 500px;
   margin-right: auto;
   margin-left: auto;
   font-size: 200%;
@@ -45,7 +44,6 @@ a {
 }
 
 #footer {
-  width: 500px;
   margin-right: auto;
   margin-left: auto;
   font-size: 150%;
