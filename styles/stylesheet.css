@@ -13,6 +13,7 @@ a {
   margin-left: auto;
   background-color: white;
   border: 2px groove #404040;
+  min-width: 700px;
 }
 
 #header {
